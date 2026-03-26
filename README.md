@@ -25,7 +25,8 @@ Requirements:
 - wget
 - [pm2](https://pm2.keymetrics.io/) (optional, runs OpenModmail in the background)
 
-...
+You can download the bot, when we are ready for open-source release. For now, you can use the official **OpenModmail App** on Discord.
 
 ### 🌪️ Discord App
 Due to the verification process of our Discord app, this option is currently **not available**. <br>We are working on restoring it.
+<br><small><sub>This option will be the first, that is coming to release. The self-hosted version will be delayed due to user-convenience!</sub></small>
