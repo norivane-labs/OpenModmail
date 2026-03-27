@@ -28,5 +28,12 @@ Requirements:
 You can download the bot, when we are ready for open-source release. For now, you can use the official **OpenModmail App** on Discord.
 
 ### 🌪️ Discord App
-Due to the verification process of our Discord app, this option is currently **not available**. <br>We are working on restoring it.
-<br><small><sub>This option will be the first, that is coming to release. The self-hosted version will be delayed due to user-convenience!</sub></small>
+Our official discord app is now live 🎉
+
+Requirements:
+
+- a discord server
+  - ✅ With the [Discord App](https://discord.com/discovery/applications/1486728345826758781)
+
+You can set the category with `/modmail-setcategory` and select your category where the modmail tickets will be created.
+You also need to set the staff roles with `/modmail-setstaff` that can see / answer the modmail tickets.
